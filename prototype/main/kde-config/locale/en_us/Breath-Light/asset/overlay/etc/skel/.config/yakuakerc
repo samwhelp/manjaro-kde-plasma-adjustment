@@ -1,5 +1,9 @@
 [Appearance]
 HideSkinBorders=true
+Skin=default
+
+[Desktop Entry]
+DefaultProfile=Gruvbox.profile
 
 [Dialogs]
 FirstRun=false
