@@ -1,3 +1,6 @@
+[Greeter]
+Theme=org.manjaro.breath.desktop
+
 [Greeter][Wallpaper][org.kde.image][General]
 Image=/usr/share/wallpapers/Next/
 PreviewImage=/usr/share/wallpapers/Next/
