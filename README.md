@@ -5,6 +5,11 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Manjaro Kde Plasma Adjustment](https://samwhelp.github.io/manjaro-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/manjaro-kde-plasma-adjustment) |
+| [Manjaro Adjustment](https://samwhelp.github.io/manjaro-adjustment/) | [GitHub](https://github.com/samwhelp/manjaro-adjustment) |
+| [Manjaro Kde Plasma Note](https://samwhelp.github.io/note-about-manjaro-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-manjaro-kde-plasma) |
+
+
+> [Keybind Cheatsheet](https://samwhelp.github.io/manjaro-kde-plasma-adjustment/read/cheatsheet/keybind.html)
 
 
 
