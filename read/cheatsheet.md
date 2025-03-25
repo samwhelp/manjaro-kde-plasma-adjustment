@@ -9,4 +9,4 @@ has_children: true
 
 | Cheatsheet |
 | ----- |
-| [Keybind](https://samwhelp.github.io/endeavouros-kde-plasma-adjustment/read/cheatsheet/keybind.html) |
+| [Keybind](https://samwhelp.github.io/manjaro-kde-plasma-adjustment/read/cheatsheet/keybind.html) |
