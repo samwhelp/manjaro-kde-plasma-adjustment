@@ -22,6 +22,7 @@
 ## Subject
 
 * [Script](#script)
+* [Resource](#resource)
 * [Link](#link)
 
 
